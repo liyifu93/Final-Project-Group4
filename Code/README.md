@@ -1,6 +1,6 @@
 - The following are the python files we used in the final project:
 
-    1 - heatmap_generatorp.py was used to convert all .csv files to .png.
+    1 - heatmap_generatorp.py was used to convert all .csv files to .png heatmaps.
 
     2 - train_idealmodel_grop4.py was used to train the ideal.
 
