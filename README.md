@@ -27,3 +27,5 @@ Open the "Code" folder and find the "train_idealmodel_group4.py" for training th
 The rest two "train_nonidealmodel_22PMU_10dB_group4.py" and "train_nonidealmodel_22PMU_MissingOneData_10dB_group4.py" are for training two non-ideal models.
 
 The "predict_group4.py" is for testing different groups of data on the specific model and check the prediction accuracy.
+
+PS: If you use the dataset from this project, please cite "Li, Yifu. Date-Driven Topology Identification in Power Distribution Systems with Machine Learning. Diss. The George Washington University, 2020."
