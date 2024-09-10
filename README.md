@@ -30,5 +30,5 @@ The rest two "train_nonidealmodel_22PMU_10dB_group4.py" and "train_nonidealmodel
 
 The "predict_group4.py" is for testing different groups of data on the specific model and check the prediction accuracy.
 
-PS: If you use the dataset from this project for research, please cite<br>
+PS: If you use the dataset from this project for research, please cite me by<br>
 - Y. Li. <em>Date-Driven Topology Identification in Power Distribution Systems with Machine Learning</em>. Diss. The George Washington University, 2020.
