@@ -1,5 +1,7 @@
 Autoencoder-as-a-Classifier-using-IEEE-34-Test-Feeder-PMU-Dataset
 
+This is the Final Project for DATS 6203 Machine Learning II of George Washington University.
+
 The links for the dataset we used in this project:
 1. Dataset for ideal model:
 https://drive.google.com/file/d/1kpE5WM8xH4sZ2UHLmPOBQYgIfQqPZXM9/view?usp=sharing
@@ -28,5 +30,5 @@ The rest two "train_nonidealmodel_22PMU_10dB_group4.py" and "train_nonidealmodel
 
 The "predict_group4.py" is for testing different groups of data on the specific model and check the prediction accuracy.
 
-PS: If you use the dataset from this project for research, please cite
--Y. Li. <em>Date-Driven Topology Identification in Power Distribution Systems with Machine Learning</em>. Diss. The George Washington University, 2020.
+PS: If you use the dataset from this project for research, please cite<br>
+- Y. Li. <em>Date-Driven Topology Identification in Power Distribution Systems with Machine Learning</em>. Diss. The George Washington University, 2020.
